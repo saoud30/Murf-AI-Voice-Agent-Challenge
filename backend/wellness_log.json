@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-11-24T14:22:26.720904",
+    "mood": "6 out of 10 energy",
+    "goals": [
+      "finish small assignment",
+      "drink more water",
+      "take short walk"
+    ],
+    "summary": "The user is feeling 6 out of 10 on energy and plans to finish an assignment, drink more water, and take a short walk."
+  },
+  {
+    "timestamp": "2025-11-24T14:22:50.516012",
+    "mood": "moderate energy",
+    "goals": [
+      "finish a small assignment",
+      "drink more water",
+      "take at least a short walk"
+    ],
+    "summary": "Today you're feeling moderate energy, and your goals are to finish an assignment, drink more water, and take a short walk."
+  }
+]
