@@ -124,10 +124,10 @@ Hosted by **Murf AI**, creators of the Falcon TTS engine.
 
 ## Final Touches Checklist
 
-- [ ] Add Day 10 folder with `agent.py` and `README.md`.
-- [ ] Update repo root `README.md` with the version above.
-- [ ] Record final Day 10 video (show 2 rounds + varied reactions).
-- [ ] Post on LinkedIn with final caption:
+- [✅] Add Day 10 folder with `agent.py` and `README.md`.
+- [✅] Update repo root `README.md` with the version above.
+- [✅] Record final Day 10 video (show 2 rounds + varied reactions).
+- [✅] Post on LinkedIn with final caption:
 
 ```text
 Day 10: Challenge Complete! 🎉
